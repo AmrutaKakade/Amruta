@@ -4,4 +4,3 @@ This is my 3rd lecture of git
 thank you
 hii
 hiiii
-Todays date is 14th feb and adding some text from local
