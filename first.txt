@@ -2,5 +2,5 @@ Hello git
 I'm Amruta
 This is my 3rd lecture of git
 thank you
-hii
-hiiii
+Today's date is 14th feb
+adding line from remote repo to master
